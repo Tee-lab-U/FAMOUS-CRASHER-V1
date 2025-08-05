@@ -1,0 +1,4 @@
+git clone https://github.com/FAMOUS-TECH-DEV/FAMOUS-CRASHER-V1
+cd FAMOUS-CRASHER-V1
+npm install
+node index.js
